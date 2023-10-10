@@ -51,12 +51,12 @@
 <table>
   <tr>
     <td>
-      <a href="[#](https://www.linkedin.com/in/soorya-u">
+      <a href="https://www.linkedin.com/in/soorya-u">
         <img width="60" src="./Images/Social/linkedin.svg">
       </a>
     </td>
     <td>
-      <a href="#https://leetcode.com/soorya-u">
+      <a href="https://leetcode.com/soorya-u">
         <img width="50" src="./Images/Social/leetcode.svg">
       </a>
     </td>
