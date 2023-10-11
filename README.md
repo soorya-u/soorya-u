@@ -1,5 +1,7 @@
 <div>
-  <h1 align="center">🔖Hey, I'm Soorya U</h1>
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=100&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U" alt="Typing SVG" />
+  </div>
 
   - 20 Years Old
   - Bachelor of Engineering🎓
