@@ -1,58 +1,82 @@
-<div>
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=100&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U" alt="Typing SVG" />
-  </div>
 
-  - 20 Years Old
-  - Bachelor of Engineering🎓
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U" alt="Typing SVG" />
+</div>
+
+<h2>About Me</h2>
+
+<ul>
+  <li> In my Early 20s 🎉</li>
+  <li> Bachelor of Engineering 🎓</li>
+</ul>
 
 </div>
 
 <h2>Contributions</h2>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=soorya-u&bg_color=0d1117&color=f2f2f2&line=39dd53&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soorya-u&bg_color=0d1117&color=f2f2f2&line=39dd53&point=ffffff&area=true&hide_border=true" alt="Contributions" />
 
 <h2>Tech Stack</h2>
+
 <table>
   <tr>
     <td align="center">
-      <img width="50" src="./Images/Tech Stack/html.svg">
+      <a href="https://github.com/topics/html">
+        <img width="50" src="./Images/Tech Stack/html.svg">
+      </a>
       <p>HTML</p>
     </td>
     <td align="center">
-      <img width="50" src="./Images/Tech Stack/css.svg">
+      <a href="https://github.com/topics/css">
+        <img width="50" src="./Images/Tech Stack/css.svg">
+      </a>
       <p>CSS</p>
     </td>
     <td align="center">
-      <img  width="50" src="./Images/Tech Stack/js.svg">
+      <a href="https://github.com/topics/javascript">
+        <img  width="50" src="./Images/Tech Stack/js.svg">
+      </a>
       <p>JavaScript</p>
     </td>
     <td align="center">
-      <img width="50"  src="./Images/Tech Stack/ts.svg">
+      <a href="https://github.com/topics/typescript">
+        <img width="50"  src="./Images/Tech Stack/ts.svg">
+      </a>
       <p  align="center">TypeScript</p>
     </td>
     <td align="center">
-      <img width="50" src="./Images/Tech Stack/py.svg">
+      <a href="https://github.com/topics/python">
+        <img width="50" src="./Images/Tech Stack/py.svg">
+      </a>
       <p>Python</p>
     </td>
   </tr>
-  </table>
-  <table>
+</table>
+
+<table>
   <tr>
     <td align="center">
-      <img width="50" src="./Images/Tech Stack/nodejs.svg">
+      <a href="https://github.com/topics/node">
+        <img width="50" src="./Images/Tech Stack/nodejs.svg">
+      </a>
       <p>Node</p>
     </td>
     <td align="center">
-      <img width="50" src="./Images/Tech Stack/react.svg">
+      <a href="https://github.com/topics/react">
+        <img width="50" src="./Images/Tech Stack/react.svg">
+      </a>
       <p>React</p>
     </td>
     <td align="center">
-      <img width="50" src="./Images/Tech Stack/nextjs.svg">
-      <p>Next JS</p>
+      <a href="https://github.com/topics/next">
+        <img width="50" src="./Images/Tech Stack/nextjs.svg">
+      </a>
+      <p>Next</p>
     </td>
     <td align="center">
-    <img width="50" src="./Images/Tech Stack/angular.svg">
+      <a href="https://github.com/topics/angular">
+        <img width="50" src="./Images/Tech Stack/angular.svg">
+      </a>
       <p>Angular</p>
     </td>
   </tr>
