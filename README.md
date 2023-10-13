@@ -63,7 +63,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/topics/react">
-        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/react.png" alt="react" />
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/react.svg" alt="react" />
       </a>
       <p>React</p>
     </td>
