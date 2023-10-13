@@ -22,31 +22,31 @@
   <tr>
     <td align="center">
       <a href="https://github.com/topics/html">
-        <img width="50" src="./Images/Tech Stack/html.svg">
+        <img width="50" src="./Images/Tech Stack/html.svg" alt="html" />
       </a>
       <p>HTML</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/css">
-        <img width="50" src="./Images/Tech Stack/css.svg">
+        <img width="50" src="./Images/Tech Stack/css.svg" alt="css" />
       </a>
       <p>CSS</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/javascript">
-        <img  width="50" src="./Images/Tech Stack/js.svg">
+        <img  width="50" src="./Images/Tech Stack/js.svg" alt="js" />
       </a>
       <p>JavaScript</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/typescript">
-        <img width="50"  src="./Images/Tech Stack/ts.svg">
+        <img width="50"  src="./Images/Tech Stack/ts.svg" alt="ts" />
       </a>
       <p  align="center">TypeScript</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/python">
-        <img width="50" src="./Images/Tech Stack/py.svg">
+        <img width="50" src="./Images/Tech Stack/py.svg"  alt="py" />
       </a>
       <p>Python</p>
     </td>
@@ -57,25 +57,25 @@
   <tr>
     <td align="center">
       <a href="https://github.com/topics/node">
-        <img width="50" src="./Images/Tech Stack/nodejs.svg">
+        <img width="50" src="./Images/Tech Stack/nodejs.svg" alt="node" />
       </a>
       <p>Node</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/react">
-        <img width="50" src="./Images/Tech Stack/react.svg">
+        <img width="50" src="./Images/Tech Stack/react.svg" alt="react" />
       </a>
       <p>React</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/next">
-        <img width="50" src="./Images/Tech Stack/nextjs.svg">
+        <img width="50" src="./Images/Tech Stack/nextjs.svg" alt="nextjs" />
       </a>
       <p>Next</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/angular">
-        <img width="50" src="./Images/Tech Stack/angular.svg">
+        <img width="50" src="./Images/Tech Stack/angular.svg" alt="angular" />
       </a>
       <p>Angular</p>
     </td>
@@ -91,19 +91,19 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/soorya-u">
-        <img width="60" src="./Images/Social/linkedin.svg">
+        <img width="60" src="./Images/Social/linkedin.svg" alt="linkedin" />
       </a>
         <p>LinkedIn</p>
     </td>
     <td align="center">
       <a href="https://leetcode.com/soorya-u">
-        <img width="50" src="./Images/Social/leetcode.svg">
+        <img width="50" src="./Images/Social/leetcode.svg" alt="leetcode" />
       </a>
         <p>Leetcode</p>
     </td>
     <td align="center">
       <a href="https://discord.com/users/soorya_u">
-        <img width="50" src="./Images/Social/discord.svg">
+        <img width="50" src="./Images/Social/discord.svg" alt="discord" />
       </a>
         <p>Discord</p>
     </td>
