@@ -1,10 +1,7 @@
-<!-- <div align="center"> -->
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U#gh-dark-mode-only" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=40&pause=1000&color=000000&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I%27m+Soorya+U#gh-light-mode-only" alt="Typing SVG" /> -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U#gh-dark-mode-only)
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&size=40&pause=1000&color=000000&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I%27m+Soorya+U#gh-light-mode-only)
-<!-- </div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U#gh-dark-mode-only" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&size=40&pause=1000&color=000000&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I%27m+Soorya+U#gh-light-mode-only" alt="Typing SVG" />
+</div>
 
 <h2>About Me</h2>
 
