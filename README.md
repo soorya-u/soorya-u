@@ -17,6 +17,7 @@
 
 <h2>Tech Stack</h2>
 
+<!-- Markup Languages -->
 <table>
   <tr>
     <td align="center">
@@ -26,34 +27,53 @@
       <p>HTML</p>
     </td>
     <td align="center">
+      <a href="https://github.com/topics/latex">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/latex.svg" alt="latex" />
+      </a>
+      <p>LaTeX</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/topics/markdown">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/markdown.svg" alt="markdown" />
+      </a>
+      <p>Markdown</p>
+    </td>
+  </tr>
+</table>
+
+<!-- Style Sheet Languages -->
+<table>
+  <tr>
+    <td align="center">
       <a href="https://github.com/topics/css">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/css.svg" alt="css" />
       </a>
       <p>CSS</p>
     </td>
     <td align="center">
+      <a href="https://github.com/topics/sass">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/sass.svg" alt="sass" />
+      </a>
+      <p>Sass</p>
+    </td>
+    <!-- <td align="center">
+      <a href="https://github.com/topics/tailwind">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/tailwind.svg" alt="tailwind" />
+      </a>
+      <p>Tailwind</p>
+    </td> -->
+  </tr>
+</table>
+
+<!-- JavaScript -->
+<table>
+  <tr>
+    <td align="center">
       <a href="https://github.com/topics/javascript">
         <img  width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/js.svg" alt="js" />
       </a>
       <p>JavaScript</p>
     </td>
-    <td align="center">
-      <a href="https://github.com/topics/typescript">
-        <img width="50"  src="https://soorya-u.github.io/soorya-u/assets/tech_stack/ts.svg" alt="ts" />
-      </a>
-      <p  align="center">TypeScript</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/topics/python">
-        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/py.svg"  alt="py" />
-      </a>
-      <p>Python</p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/topics/node">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/nodejs.svg" alt="node" />
@@ -66,11 +86,23 @@
       </a>
       <p>React</p>
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://github.com/topics/next">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/nextjs.svg" alt="nextjs" />
       </a>
       <p>Next</p>
+    </td> -->
+  </tr>
+</table>
+
+<!-- TypeScript -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/topics/typescript">
+        <img width="50"  src="https://soorya-u.github.io/soorya-u/assets/tech_stack/ts.svg" alt="ts" />
+      </a>
+      <p  align="center">TypeScript</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/angular">
@@ -78,12 +110,38 @@
       </a>
       <p>Angular</p>
     </td>
+    <!-- <td align="center">
+      <a href="https://github.com/topics/prisma">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/prisma.svg" alt="prisma" />
+      </a>
+      <p>Prisma</p>
+    </td> -->
+  </tr>
+</table>
+
+<!-- Python -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/topics/python">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/py.svg"  alt="py" />
+      </a>
+      <p>Python</p>
+    </td>
+    <!-- <td align="center">
+      <a href="https://github.com/topics/mojo">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mojo.png"  alt="mojo" />
+      </a>
+      <p>Mojo</p>
+    </td> -->
   </tr>
 </table>
 
 <h2>Badges</h2>
 
-[![](https://holopin.me/sooryau)](https://holopin.io/@sooryau)
+<a href="https://holopin.io/@sooryau">
+  <img src="https://holopin.me/sooryau" alt="Holopin" />
+</a>
 
 <h2>Social</h2>
 <table>
