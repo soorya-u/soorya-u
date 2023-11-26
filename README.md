@@ -128,12 +128,12 @@
       </a>
       <p>Python</p>
     </td>
-    <!-- <td align="center">
+    <td align="center">
       <a href="https://github.com/topics/mojo">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mojo.png"  alt="mojo" />
       </a>
       <p>Mojo</p>
-    </td> -->
+    </td>
   </tr>
 </table>
 
