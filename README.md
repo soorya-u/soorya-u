@@ -74,6 +74,12 @@
       </a>
       <p>JavaScript</p>
     </td>
+    <!-- <td align="center">
+      <a href="https://github.com/topics/jquery">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/jquery.svg" alt="jquery" />
+      </a>
+      <p>JQuery</p>
+    </td> -->
     <td align="center">
       <a href="https://github.com/topics/node">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/nodejs.svg" alt="node" />
@@ -129,6 +135,12 @@
       <p>Python</p>
     </td>
     <td align="center">
+      <a href="https://github.com/topics/flask">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/flask.svg"  alt="flask" />
+      </a>
+      <p>Flask</p>
+    </td>
+    <td align="center">
       <a href="https://github.com/topics/mojo">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mojo.png"  alt="mojo" />
       </a>
@@ -163,6 +175,12 @@
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/social/discord.svg" alt="discord" />
       </a>
         <p>Discord</p>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/sooryaa_u">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/social/twitter.svg" alt="twitter" />
+      </a>
+        <p>Twitter</p>
     </td>
   </tr>
 </table>
