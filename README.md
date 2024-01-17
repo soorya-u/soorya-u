@@ -150,13 +150,13 @@
       <a href="https://github.com/topics/postgresql">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/postgres.svg"  alt="postgres" />
       </a>
-      <p>Flask</p>
+      <p>Postgres</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/mongodb">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mongo.svg"  alt="mongo" />
       </a>
-      <p>Mojo</p>
+      <p>Mongo</p>
     </td>
     <td align="center">
       <a href="https://github.com/topics/redis">
