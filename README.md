@@ -143,6 +143,30 @@
   </tr>
 </table>
 
+<!-- Database -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/topics/postgresql">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/postgres.svg"  alt="postgres" />
+      </a>
+      <p>Flask</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/topics/mongodb">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mongo.png"  alt="mongo" />
+      </a>
+      <p>Mojo</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/topics/redis">
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/redis.svg"  alt="redis" />
+      </a>
+      <p>Redis</p>
+    </td>
+  </tr>
+</table>
+
 <h2>Badges</h2>
 
 <a href="https://holopin.io/@sooryau">
