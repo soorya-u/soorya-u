@@ -56,12 +56,12 @@
       </a>
       <p>Sass</p>
     </td>
-    <!-- <td align="center">
+    <td align="center">
       <a href="https://github.com/topics/tailwind">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/tailwind.svg" alt="tailwind" />
       </a>
       <p>Tailwind</p>
-    </td> -->
+    </td>
   </tr>
 </table>
 
@@ -73,13 +73,7 @@
         <img  width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/js.svg" alt="js" />
       </a>
       <p>JavaScript</p>
-    </td>
-    <!-- <td align="center">
-      <a href="https://github.com/topics/jquery">
-        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/jquery.svg" alt="jquery" />
-      </a>
-      <p>JQuery</p>
-    </td> -->
+    </td>  
     <td align="center">
       <a href="https://github.com/topics/node">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/nodejs.svg" alt="node" />
