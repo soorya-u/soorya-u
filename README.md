@@ -144,7 +144,7 @@
 </table>
 
 <!-- Database -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/postgresql">
@@ -165,7 +165,7 @@
       <p>Redis</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <h2>Badges</h2>
 
