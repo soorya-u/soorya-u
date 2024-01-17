@@ -154,7 +154,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/topics/mongodb">
-        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mongo.png"  alt="mongo" />
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/mongo.svg"  alt="mongo" />
       </a>
       <p>Mojo</p>
     </td>
