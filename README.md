@@ -81,16 +81,34 @@
       <p>Node</p>
     </td>
     <td align="center">
+      <a href="https://github.com/topics/expressjs">
+        <img width="50" src="./assets/tech_stack/express.png" alt="expressjs" />
+      </a>
+      <p>Express</p>
+    </td>
+  </tr>
+</table>
+
+<!-- React -->
+<table>
+  <tr>
+    <td align="center">
       <a href="https://github.com/topics/react">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/react.svg" alt="react" />
       </a>
       <p>React</p>
     </td>
-    <!-- <td align="center">
+    <td align="center">
       <a href="https://github.com/topics/next">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/nextjs.svg" alt="nextjs" />
       </a>
       <p>Next</p>
+    </td>
+    <!-- <td align="center">
+      <a href="https://github.com/topics/expo">
+        <img width="50" src="./assets/tech_stack/expo.svg" alt="expo" />
+      </a>
+      <p>Expo</p>
     </td> -->
   </tr>
 </table>
@@ -110,12 +128,12 @@
       </a>
       <p>Angular</p>
     </td>
-    <!-- <td align="center">
+    <td align="center">
       <a href="https://github.com/topics/prisma">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/prisma.svg" alt="prisma" />
       </a>
       <p>Prisma</p>
-    </td> -->
+    </td>
   </tr>
 </table>
 
