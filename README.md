@@ -82,7 +82,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/topics/expressjs">
-        <img width="50" src="./assets/tech_stack/express.png" alt="expressjs" />
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/express.png" alt="expressjs" />
       </a>
       <p>Express</p>
     </td>
@@ -106,7 +106,7 @@
     </td>
     <!-- <td align="center">
       <a href="https://github.com/topics/expo">
-        <img width="50" src="./assets/tech_stack/expo.svg" alt="expo" />
+        <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/expo.svg" alt="expo" />
       </a>
       <p>Expo</p>
     </td> -->
