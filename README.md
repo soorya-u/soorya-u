@@ -5,8 +5,7 @@
 <h2>About Me</h2>
 
 <ul>
-  <li> In my Early 20s 🎉</li>
-  <li> Bachelor of Engineering 🎓</li>
+  <li> Vim Key Bindings 🤔</li>
 </ul>
 
 </div>
@@ -15,10 +14,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soorya-u&bg_color=0d1117&color=f2f2f2&line=39dd53&point=ffffff&area=true&hide_border=true" alt="Contributions" />
 
-<h2>Tech Stack</h2>
+<!-- <h2>Tech Stack</h2> -->
 
 <!-- Markup Languages -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/html">
@@ -39,10 +38,10 @@
       <p>Markdown</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Style Sheet Languages -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/css">
@@ -63,17 +62,17 @@
       <p>Tailwind</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- JavaScript -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/javascript">
         <img  width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/js.svg" alt="js" />
       </a>
       <p>JavaScript</p>
-    </td>  
+    </td>
     <td align="center">
       <a href="https://github.com/topics/node">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/nodejs.svg" alt="node" />
@@ -87,10 +86,10 @@
       <p>Express</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- React -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/react">
@@ -104,17 +103,17 @@
       </a>
       <p>Next</p>
     </td>
-    <!-- <td align="center">
+    <td align="center">
       <a href="https://github.com/topics/expo">
         <img width="50" src="https://soorya-u.github.io/soorya-u/assets/tech_stack/expo.svg" alt="expo" />
       </a>
       <p>Expo</p>
-    </td> -->
+    </td>
   </tr>
-</table>
+</table> -->
 
 <!-- TypeScript -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/typescript">
@@ -135,10 +134,10 @@
       <p>Prisma</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Python -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="https://github.com/topics/python">
@@ -159,7 +158,7 @@
       <p>Mojo</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Database -->
 <!-- <table>
