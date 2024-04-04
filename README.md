@@ -8,8 +8,6 @@
   <li> Vim Key Bindings 🤔</li>
 </ul>
 
-</div>
-
 <h2>Contributions</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soorya-u&bg_color=0d1117&color=f2f2f2&line=39dd53&point=ffffff&area=true&hide_border=true" alt="Contributions" />
@@ -190,7 +188,7 @@
   <img src="https://holopin.me/sooryau" alt="Holopin" />
 </a>
 
-<h2>Social</h2>
+<!-- <h2>Social</h2>
 <table>
   <tr>
     <td align="center">
@@ -218,4 +216,6 @@
         <p>Twitter</p>
     </td>
   </tr>
-</table>
+</table> -->
+
+---
