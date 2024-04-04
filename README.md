@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=65&lines=%F0%9F%94%96Hey%2C+I'm+Soorya+U" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=FFFFFF&center=true&random=false&width=550&height=65&lines=%E2%9A%93Hey+Im+Soorya" alt="Typing SVG" />
 </div>
 
 <h2>On my Mind</h2>
