@@ -182,6 +182,9 @@
   </tr>
 </table> -->
 
+<h2>Tropies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=soorya-u&no-bg=true&title=MultiLanguage,Commits,PullRequest,Issues&theme=onedark&margin-w=20" />
+
 <h2>Badges</h2>
 
 <a href="https://holopin.io/@sooryau">
