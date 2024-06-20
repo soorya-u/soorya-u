@@ -5,7 +5,8 @@
 <h2>On my Mind</h2>
 
 <ul>
-  <li> Vim Key Bindings 🤔</li>
+  <li>Vim Key Bindings 🤔</li>
+  <li>Another Day of writing Unoptimized Spaghetti Code 🙃</li>
 </ul>
 
 <h2>Contributions</h2>
